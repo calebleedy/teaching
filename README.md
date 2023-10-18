@@ -8,9 +8,11 @@ By doing so I hope to be able to:
 2. Force students to make arguments and conclusions based on real data,
 3. Give students the opportunity to understand the ethical and moral
    implications of data collection, variable definitions, and modeling
-   assumptions, and 
+   assumptions, 
 4. Create inter-disciplinary opportunities for people to use statistical 
-   methods. 
+   methods,
+5. Allow students to practice using state-of-the-art software tools to assist 
+   with version control, documentation, and group work.
 
 ## Pedagogy
 I do not have formal training in teaching students, but I can learn how to 
