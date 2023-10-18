@@ -10,7 +10,7 @@ By doing so I hope to be able to:
    implications of data collection, variable definitions, and modeling
    assumptions, 
 4. Create inter-disciplinary opportunities for people to use statistical 
-   methods,
+   methods, and
 5. Allow students to practice using state-of-the-art software tools to assist 
    with version control, documentation, and group work.
 
