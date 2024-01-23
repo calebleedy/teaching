@@ -27,3 +27,9 @@ teach well. I would like to incorporate the following:
 * [ ] Add literature about how to teach statistics
 * [ ] Add resources about teaching strategies
 * [ ] Add data sets that would be useful for analyzing social outcomes
+* [ ] Define social justice (Helping people who need help in areas of basic
+    need?)
+
+# Teaching / Professional Development Resources
+
+* https://www.ncfdd.org/home
